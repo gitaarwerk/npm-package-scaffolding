@@ -2,6 +2,6 @@ import test from './src/test';
 
 export default () =>
 {
-  test.testMe();
+  test();
   console.log('Look at yourself! It works!');
 }
