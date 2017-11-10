@@ -1,23 +1,14 @@
-import styled from 'styled-components';
-import React from 'react';
+'use strict';
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = undefined;
 
-const TestComponent = () => (
-    <StyledComponent>
-      Yay, the test is working!
-    </StyledComponent>
-);
+var _ReactTestComponent = require('./_ReactTestComponent');
 
+var _ReactTestComponent2 = _interopRequireDefault(_ReactTestComponent);
 
-const StyledComponent = styled.div`
-  background: hotpink;
-  padding: 20px;
-  color: black;
-  display: block;
-  width: 200px;
-  height: 200px;
-  margin: 20px;
-`;
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-export default TestComponent;
-
+exports.default = _ReactTestComponent2.default;
