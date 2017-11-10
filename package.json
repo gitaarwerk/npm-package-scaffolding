@@ -1,0 +1,23 @@
+{
+  "name": "npm-test",
+  "version": "0.0.1",
+  "description": "Just a test to show its easy to do.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoutman/npm-package-scaffolding.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "J. Houtman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhoutman/npm-package-scaffolding/issues"
+  },
+  "homepage": "https://github.com/jhoutman/npm-package-scaffolding#readme"
+}
