@@ -2,7 +2,7 @@
   "name": "npm-test",
   "version": "0.0.1",
   "description": "Just a test to show its easy to do.",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "build": "babel lib -d build",
     "lint": "eslint lib/**; exit 0",
